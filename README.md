@@ -60,7 +60,5 @@ This analysis provided insights into the factors that influence software enginee
 
 Technologies Used
 Python: Data analysis and visualization (pandas, matplotlib, seaborn)
-SQL: Querying the dataset in PostgreSQL (queries are available in the notebook for reference)
-Jupyter Notebook (Optional): To document the analysis step-by-step
-DBeaver: For SQL queries and database management
+SQL: Querying the dataset in PostgreSQL 
 
