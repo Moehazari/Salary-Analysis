@@ -63,22 +63,4 @@ Python: Data analysis and visualization (pandas, matplotlib, seaborn)
 SQL: Querying the dataset in PostgreSQL (queries are available in the notebook for reference)
 Jupyter Notebook (Optional): To document the analysis step-by-step
 DBeaver: For SQL queries and database management
-GitHub: Project version control and portfolio showcasing
-Project Setup
-To set up and run this project locally:
-
-Clone the repository:
-bash
-Copy code
-git clone <repository-url>
-cd <repository-folder>
-Install required Python libraries:
-bash
-Copy code
-pip install pandas matplotlib seaborn
-Run the analysis scripts (data_cleaning.py, advanced_eda.py) in your preferred IDE or Jupyter Notebook.
-(Optional) Import the data into a PostgreSQL database and explore the SQL queries.
-Notes
-This project is a part of my portfolio and demonstrates data analysis skills with real-world datasets. The project shows how to clean, analyze, and visualize data, providing valuable insights for decision-making in the field of software engineering salaries.
-
 
